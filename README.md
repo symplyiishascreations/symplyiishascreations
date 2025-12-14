@@ -19,3 +19,7 @@ Comp sci with cybersecurity undergraduate student who loves learning about *cybe
 - GitHub foundations
 - Python
 - Cybersecurity basics
+
+---
+
+##Tools and 
