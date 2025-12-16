@@ -17,9 +17,23 @@ Comp sci with cybersecurity undergraduate student who loves learning about *cybe
 
 ### Currently Learning
 - GitHub foundations
-- Python
-- Cybersecurity basics
+- Python fundamentals
+- Linux fundamentals
+- Cybersecurity fundamentals
 
 ---
 
-##Tools and 
+### Tools
+- Kali Linux (Debian)
+- VMware Workstation 17
+- Cisco Packet Tracer
+- VS Code
+- HashCalc
+
+---
+### Connect With Me
+- [LinkedIn] (https://linkedin.com/in/symplyiisha)
+
+---
+### Open-source Badges
+- [Hacktoberfest 2025] (https://www.holopin.io/@symplyiishascreations#)
